@@ -1,0 +1,51 @@
+.main-block {
+  position: absolute;
+  background-image: url(http://tutorial.promo.net.ua/images/js/setka3.png);
+  background-position: top left;
+  width: 300px;
+  height: 300px;
+  border: 1px solid black;
+}
+.house {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    background: coral;
+    right: 20%;
+    bottom: 0;
+}
+.roof {
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-left: 110px solid transparent;
+    border-right: 110px solid transparent;
+    border-bottom: 100px solid red;
+    right: 9%;
+    bottom: 150px;
+}
+.chimney {
+    position: absolute;
+    right: 20%;
+    bottom: 169px;
+    width: 20px;
+    height: 60px;
+    background: black;
+}
+.door {
+	position: absolute;
+    width: 60px;
+    height: 90px;
+    background: brown;
+    right: 25%;
+    bottom: 0;
+}
+.window {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    background: cyan;
+    right: 51%;
+    bottom: 17%;
+}
+  
