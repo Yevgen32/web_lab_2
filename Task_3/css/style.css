@@ -1,0 +1,31 @@
+body {
+	margin: 0 auto;
+}
+.container{
+	background-color: #77c7c0;
+	width: 900px;
+	height: 600px;
+	position: absolute;
+}
+.clouds, .water, .ship, .world{
+	position: absolute;
+}
+.clouds{
+	top: -2%;
+    right: 2%;
+	width:600px;
+}
+.water{
+	bottom: 0;
+	width:900px;
+}
+.ship{
+	width:150px;
+	bottom: 4.7%;
+    left: 3%;
+}
+.world{
+	width:754px;
+	right: 12%;
+	bottom: 5%;
+}
