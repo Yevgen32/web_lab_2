@@ -16,12 +16,12 @@ body {
 	width:600px;
 }
 .water{
-	bottom: 0;
+	bottom: -1%;
 	width:900px;
 }
 .ship{
 	width:150px;
-	bottom: 4.7%;
+	bottom: 3.7%;
     left: 3%;
 }
 .world{
